@@ -1,6 +1,6 @@
 [package]
 name = "cobra-rhi"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 license = "MIT"
 description = "Cross platform RHI for vulkan and (WIP) directx. Supports fully bindless resources, RAII on resources, and automatic image transitions."
